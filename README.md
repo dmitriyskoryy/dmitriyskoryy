@@ -9,7 +9,7 @@
 ---
 
 ### :man_technologist: Опыт работы :
-Я стажируюсь в компании Cloveri на позиции Backend-разработчик на Python.
+Cтажируюсь в компании Cloveri на позиции Backend-разработчик на Python.
 
 - Стек: Python, Django + DRF, FastAPI, SQLAlchemy, PostgresSQL, MongoDB, Docker, Git
 - Разработка команде (бэкенд и фронтенд-разработчики, тестеры, дизайнер, devops)
